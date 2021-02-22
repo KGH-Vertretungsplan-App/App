@@ -5,7 +5,7 @@ Eine App, die die Vertretungspläne über eine sichere HTTPS-Verbindung als App 
  - *Android-Gerät* (Smartphone oder Tablet)
  - Android-Version (*mindestens 7.0*)
 # Download und Installation
-# Installationsanleitung
+# ![Installationsanleitung]()
 
 #### 1. Downloade die App [hier](https://github.com/byZeroOfficial/KGH-Vertretungsplan-App/releases)
 
