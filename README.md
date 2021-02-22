@@ -7,7 +7,7 @@ Eine App, die die Vertretungspläne über eine sichere HTTPS-Verbindung als App 
 # Download und Installation
 # Installationsanleitung
 
-#### 1. Downloade die App
+#### 1. Downloade die App [hier](https://github.com/byZeroOfficial/KGH-Vertretungsplan-App/releases)
 
 ![](https://kghalle.tk/wp-content/uploads/2020/11/Screenshot_20201126-185203_Chrome.jpg)
 
