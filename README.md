@@ -8,7 +8,7 @@ Eine App, die die Vertretungspläne über eine sichere HTTPS-Verbindung als App 
 # [Installationsanleitung](https://github.com/byZeroOfficial/KGH-Vertretungsplan-App/wiki/Installationsanleitung)
 
 # Lizenz
-Die Lizenz zu dieser Software findest du [hier](https://github.com/byZeroOfficial/KGH-Vertretungsplan-App).
+Die Lizenz zu dieser Software findest du [hier](https://github.com/byZeroOfficial/KGH-Vertretungsplan-App/blob/main/LICENSE).
 
 # Credits
 Es wurden einige Zeilen von [der](https://github.com/joseywoermann/vertretungsplan-app) Version der Vertretungsplan-App benutzt.
