@@ -12,17 +12,16 @@
   </a>
 </p>
 
-> Eine App, die die Vertretungspläne über eine sichere HTTPS-Verbindung als App anzeigt mit einer Startseite, Info und einem Discord-Server.
+> An app that displays substitution schedules over a secure HTTPS connection as an app with a home page, info, and a Discord server.
 
 ### 🏠 [Homepage](https://kghalle.tk)
 
-### ✨ [Demo](https://cloud.0network.de/vertretungsplan)
+### ✨ [API](https://cloud.0network.de/vertretungsplan)
 
 ## Install
 
-```sh
 Visit https://go.kghalle.tk/download and download the app.
-```
+
 
 ## Author
 
