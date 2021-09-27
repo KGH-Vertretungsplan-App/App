@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to KGH-Vertretungsplan-App 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v4.1-blue.svg?cacheSeconds=2592000" />
-  <a href="https://docs.kghalle.tk" target="_blank">
+  <a href="https://kgh.byzero.dev" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/byZeroOfficial/KGH-Vertretungsplan-App/blob/main/LICENSE" target="_blank">
@@ -14,7 +14,7 @@
 
 > An app that displays substitution schedules over a secure HTTPS connection as an app with a home page, info, and a Discord server.
 
-### 🏠 [Homepage](https://kghalle.tk)
+### 🏠 [Homepage](https://kgh.byzero.dev)
 
 ### ✨ [API](https://cloud.0network.de/vertretungsplan)
 
