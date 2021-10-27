@@ -16,7 +16,7 @@
 
 ### 🏠 [Homepage](https://kgh.byzero.dev)
 
-### ✨ [API](https://cloud.0network.de/vertretungsplan)
+### ✨ [API](https://kghv.byzero.dev)
 
 ## Install
 
