@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/home/byzero/.gradle/caches/transforms-3/818542137c1f87a57ec295519dea6093/transformed/res/values-sw600dp-v13/values-sw600dp-v13.xml",

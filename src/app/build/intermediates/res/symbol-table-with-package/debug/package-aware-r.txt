@@ -982,6 +982,8 @@ id FUNCTION
 id META
 id SHIFT
 id SYM
+id _fab
+id _toolbar
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1332,6 +1334,9 @@ style Animation_AppCompat_DropDownUp
 style Animation_AppCompat_Tooltip
 style Animation_Design_BottomSheetDialog
 style AppTheme
+style AppTheme_AppBarOverlay
+style AppTheme_FullScreen
+style AppTheme_PopupOverlay
 style Base_AlertDialog_AppCompat
 style Base_AlertDialog_AppCompat_Light
 style Base_Animation_AppCompat_Dialog
@@ -1523,9 +1528,6 @@ style Base_Widget_MaterialComponents_TextInputLayout
 style CardView
 style CardView_Dark
 style CardView_Light
-style FullScreen
-style NoActionBar
-style NoStatusBar
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_MaterialComponents

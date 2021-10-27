@@ -17,6 +17,8 @@ com/kgh/vertretungsplan/RequestNetworkController.java
  com.kgh.vertretungsplan.RequestNetworkController$3
  com.kgh.vertretungsplan.RequestNetworkController$3$1
  com.kgh.vertretungsplan.RequestNetworkController$3$2
+androidx/print/R.java
+ androidx.print.R
 com/kgh/vertretungsplan/R.java
  com.kgh.vertretungsplan.R
  com.kgh.vertretungsplan.R$anim
@@ -33,8 +35,6 @@ com/kgh/vertretungsplan/R.java
  com.kgh.vertretungsplan.R$string
  com.kgh.vertretungsplan.R$style
  com.kgh.vertretungsplan.R$styleable
-androidx/print/R.java
- androidx.print.R
 com/kgh/vertretungsplan/BuildConfig.java
  com.kgh.vertretungsplan.BuildConfig
 androidx/cursoradapter/R.java
@@ -84,8 +84,6 @@ androidx/swiperefreshlayout/R.java
  androidx.swiperefreshlayout.R$string
  androidx.swiperefreshlayout.R$style
  androidx.swiperefreshlayout.R$styleable
-androidx/lifecycle/livedata/R.java
- androidx.lifecycle.livedata.R
 androidx/appcompat/R.java
  androidx.appcompat.R
  androidx.appcompat.R$anim
@@ -100,10 +98,10 @@ androidx/appcompat/R.java
  androidx.appcompat.R$string
  androidx.appcompat.R$style
  androidx.appcompat.R$styleable
+androidx/lifecycle/livedata/R.java
+ androidx.lifecycle.livedata.R
 com/kgh/vertretungsplan/SketchwareUtil.java
  com.kgh.vertretungsplan.SketchwareUtil
-androidx/lifecycle/R.java
- androidx.lifecycle.R
 androidx/legacy/coreui/R.java
  androidx.legacy.coreui.R
  androidx.legacy.coreui.R$attr
@@ -116,10 +114,12 @@ androidx/legacy/coreui/R.java
  androidx.legacy.coreui.R$string
  androidx.legacy.coreui.R$style
  androidx.legacy.coreui.R$styleable
-androidx/documentfile/R.java
- androidx.documentfile.R
+androidx/lifecycle/R.java
+ androidx.lifecycle.R
 androidx/arch/core/R.java
  androidx.arch.core.R
+androidx/documentfile/R.java
+ androidx.documentfile.R
 com/kgh/vertretungsplan/BluetoothController.java
  com.kgh.vertretungsplan.BluetoothController
  com.kgh.vertretungsplan.BluetoothController$1
@@ -159,7 +159,9 @@ com/kgh/vertretungsplan/MainviewActivity.java
  com.kgh.vertretungsplan.MainviewActivity
  com.kgh.vertretungsplan.MainviewActivity$1
  com.kgh.vertretungsplan.MainviewActivity$10
+ com.kgh.vertretungsplan.MainviewActivity$10$1
  com.kgh.vertretungsplan.MainviewActivity$11
+ com.kgh.vertretungsplan.MainviewActivity$12
  com.kgh.vertretungsplan.MainviewActivity$2
  com.kgh.vertretungsplan.MainviewActivity$3
  com.kgh.vertretungsplan.MainviewActivity$4
@@ -168,19 +170,6 @@ com/kgh/vertretungsplan/MainviewActivity.java
  com.kgh.vertretungsplan.MainviewActivity$7
  com.kgh.vertretungsplan.MainviewActivity$8
  com.kgh.vertretungsplan.MainviewActivity$9
- com.kgh.vertretungsplan.MainviewActivity$9$1
-androidx/loader/R.java
- androidx.loader.R
- androidx.loader.R$attr
- androidx.loader.R$color
- androidx.loader.R$dimen
- androidx.loader.R$drawable
- androidx.loader.R$id
- androidx.loader.R$integer
- androidx.loader.R$layout
- androidx.loader.R$string
- androidx.loader.R$style
- androidx.loader.R$styleable
 androidx/asynclayoutinflater/R.java
  androidx.asynclayoutinflater.R
  androidx.asynclayoutinflater.R$attr
@@ -193,6 +182,30 @@ androidx/asynclayoutinflater/R.java
  androidx.asynclayoutinflater.R$string
  androidx.asynclayoutinflater.R$style
  androidx.asynclayoutinflater.R$styleable
+androidx/loader/R.java
+ androidx.loader.R
+ androidx.loader.R$attr
+ androidx.loader.R$color
+ androidx.loader.R$dimen
+ androidx.loader.R$drawable
+ androidx.loader.R$id
+ androidx.loader.R$integer
+ androidx.loader.R$layout
+ androidx.loader.R$string
+ androidx.loader.R$style
+ androidx.loader.R$styleable
+androidx/legacy/coreutils/R.java
+ androidx.legacy.coreutils.R
+ androidx.legacy.coreutils.R$attr
+ androidx.legacy.coreutils.R$color
+ androidx.legacy.coreutils.R$dimen
+ androidx.legacy.coreutils.R$drawable
+ androidx.legacy.coreutils.R$id
+ androidx.legacy.coreutils.R$integer
+ androidx.legacy.coreutils.R$layout
+ androidx.legacy.coreutils.R$string
+ androidx.legacy.coreutils.R$style
+ androidx.legacy.coreutils.R$styleable
 com/google/android/material/R.java
  com.google.android.material.R
  com.google.android.material.R$anim
@@ -209,18 +222,6 @@ com/google/android/material/R.java
  com.google.android.material.R$string
  com.google.android.material.R$style
  com.google.android.material.R$styleable
-androidx/legacy/coreutils/R.java
- androidx.legacy.coreutils.R
- androidx.legacy.coreutils.R$attr
- androidx.legacy.coreutils.R$color
- androidx.legacy.coreutils.R$dimen
- androidx.legacy.coreutils.R$drawable
- androidx.legacy.coreutils.R$id
- androidx.legacy.coreutils.R$integer
- androidx.legacy.coreutils.R$layout
- androidx.legacy.coreutils.R$string
- androidx.legacy.coreutils.R$style
- androidx.legacy.coreutils.R$styleable
 androidx/interpolator/R.java
  androidx.interpolator.R
 androidx/core/R.java
@@ -239,6 +240,7 @@ com/kgh/vertretungsplan/MainActivity.java
  com.kgh.vertretungsplan.MainActivity
  com.kgh.vertretungsplan.MainActivity$1
  com.kgh.vertretungsplan.MainActivity$2
+ com.kgh.vertretungsplan.MainActivity$3
 androidx/slidingpanelayout/R.java
  androidx.slidingpanelayout.R
  androidx.slidingpanelayout.R$attr
@@ -280,6 +282,8 @@ androidx/drawerlayout/R.java
  androidx.drawerlayout.R$string
  androidx.drawerlayout.R$style
  androidx.drawerlayout.R$styleable
+androidx/versionedparcelable/R.java
+ androidx.versionedparcelable.R
 androidx/viewpager/R.java
  androidx.viewpager.R
  androidx.viewpager.R$attr
@@ -292,8 +296,6 @@ androidx/viewpager/R.java
  androidx.viewpager.R$string
  androidx.viewpager.R$style
  androidx.viewpager.R$styleable
-androidx/versionedparcelable/R.java
- androidx.versionedparcelable.R
 com/kgh/vertretungsplan/SettingsActivity.java
  com.kgh.vertretungsplan.SettingsActivity
  com.kgh.vertretungsplan.SettingsActivity$1

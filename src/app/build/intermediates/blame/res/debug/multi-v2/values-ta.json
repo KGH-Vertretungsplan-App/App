@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
+            "outputFile": "/run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
             "map": [
                 {
                     "source": "/home/byzero/.gradle/caches/transforms-3/d515413f340858e141689e22588f6014/transformed/res/values-ta/values-ta.xml",

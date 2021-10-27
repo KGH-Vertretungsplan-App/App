@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
-INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
-INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
-INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
+ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
 MERGED from [com.google.android.material:material:1.0.0] /home/byzero/.gradle/caches/transforms-3/818542137c1f87a57ec295519dea6093/transformed/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.0] /home/byzero/.gradle/caches/transforms-3/f2dbbb73a0c962a9273b0fc7bc999e75/transformed/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] /home/byzero/.gradle/caches/transforms-3/b6a0f1b9cd988bbbf70c4b60c20c21a7/transformed/AndroidManifest.xml:17:1-22:12
@@ -34,33 +34,33 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/byzero/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/byzero/.gradle/caches/transforms-3/64c66b7572ba0b90b18e206ecce8849d/transformed/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/byzero/.gradle/caches/transforms-3/d23d556f91032480c111eb4084e003a2/transformed/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/byzero/.gradle/caches/transforms-3/4f3a42742bd60bcb769a511c3e3f4822/transformed/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
-INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
-INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
 	package
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:3:2-35
-		INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
-		INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:3:2-35
+		INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
-		INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
-		INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:2:2-60
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:2:2-60
 uses-permission#android.permission.INTERNET
-ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:4:2-63
+ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:4:2-63
 	android:name
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:4:19-61
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:4:19-61
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:5:2-75
+ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:5:2-75
 	android:name
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:5:19-73
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:5:19-73
 application
-ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:6:2-39:16
+ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:6:2-39:16
 MERGED from [com.google.android.material:material:1.0.0] /home/byzero/.gradle/caches/transforms-3/818542137c1f87a57ec295519dea6093/transformed/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /home/byzero/.gradle/caches/transforms-3/818542137c1f87a57ec295519dea6093/transformed/AndroidManifest.xml:22:5-20
 MERGED from [androidx.core:core:1.0.0] /home/byzero/.gradle/caches/transforms-3/d515413f340858e141689e22588f6014/transformed/AndroidManifest.xml:22:5-89
@@ -70,73 +70,73 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/byzer
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] /home/byzero/.gradle/caches/transforms-3/d515413f340858e141689e22588f6014/transformed/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:8:3-34
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:8:3-34
 	android:largeHeap
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:10:3-27
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:10:3-27
 	android:icon
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:9:3-36
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:9:3-36
 	android:allowBackup
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:7:3-29
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:7:3-29
 	android:theme
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:12:3-34
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:12:3-34
 	android:usesCleartextTraffic
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:11:3-38
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:11:3-38
 activity#com.kgh.vertretungsplan.MainActivity
-ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:13:3-23:14
+ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:13:3-23:14
 	android:screenOrientation
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:18:4-40
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:18:4-40
 	android:hardwareAccelerated
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:16:4-38
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:16:4-38
 	android:supportsPictureInPicture
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:17:4-43
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:17:4-43
 	android:configChanges
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:15:4-97
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:15:4-97
 	android:name
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:14:4-32
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:14:4-32
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:19:4-22:20
+ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:19:4-22:20
 action#android.intent.action.MAIN
-ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:20:5-56
+ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:20:5-56
 	android:name
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:20:13-54
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:20:13-54
 category#android.intent.category.LAUNCHER
-ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:21:5-64
+ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:21:5-64
 	android:name
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:21:15-62
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:21:15-62
 activity#com.kgh.vertretungsplan.MainviewActivity
-ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:24:3-29:42
+ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:24:3-29:42
 	android:screenOrientation
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:29:4-40
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:29:4-40
 	android:hardwareAccelerated
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:27:4-38
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:27:4-38
 	android:supportsPictureInPicture
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:28:4-43
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:28:4-43
 	android:configChanges
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:26:4-97
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:26:4-97
 	android:name
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:25:4-36
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:25:4-36
 activity#com.kgh.vertretungsplan.SettingsActivity
-ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:30:3-35:42
+ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:30:3-35:42
 	android:screenOrientation
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:35:4-40
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:35:4-40
 	android:hardwareAccelerated
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:33:4-38
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:33:4-38
 	android:supportsPictureInPicture
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:34:4-43
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:34:4-43
 	android:configChanges
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:32:4-97
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:32:4-97
 	android:name
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:31:4-36
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:31:4-36
 uses-library#org.apache.http.legacy
-ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:36:3-38:30
+ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:36:3-38:30
 	android:required
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:38:4-28
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:38:4-28
 	android:name
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:37:4-41
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml:37:4-41
 uses-sdk
-INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
-INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.0.0] /home/byzero/.gradle/caches/transforms-3/818542137c1f87a57ec295519dea6093/transformed/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] /home/byzero/.gradle/caches/transforms-3/818542137c1f87a57ec295519dea6093/transformed/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0] /home/byzero/.gradle/caches/transforms-3/f2dbbb73a0c962a9273b0fc7bc999e75/transformed/AndroidManifest.xml:20:5-44
@@ -197,13 +197,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/byzero/.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/byzero/.gradle/caches/transforms-3/d23d556f91032480c111eb4084e003a2/transformed/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/byzero/.gradle/caches/transforms-3/4f3a42742bd60bcb769a511c3e3f4822/transformed/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/byzero/.gradle/caches/transforms-3/4f3a42742bd60bcb769a511c3e3f4822/transformed/AndroidManifest.xml:20:5-44
-INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
-INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
-		INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
-		ADDED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
-		INJECTED from /home/byzero/Documents/GitHub/KGH-Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		ADDED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
+		INJECTED from /run/media/byzero/Projects/Developing/Apps/Vertretungsplan-App/src/app/src/main/AndroidManifest.xml
