@@ -1,6 +1,9 @@
 package com.kgh.vertretungsplan;
 
-import android.app.Activity;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.annotation.*;
+import androidx.appcompat.widget.Toolbar;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import android.app.*;
 import android.os.*;
 import android.view.*;
@@ -21,14 +24,16 @@ import android.widget.LinearLayout;
 import android.widget.Button;
 import android.content.Intent;
 import android.net.Uri;
+import android.app.Activity;
 import android.content.SharedPreferences;
 import android.view.View;
 import android.webkit.WebViewClient;
 
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-
-public class MainviewActivity extends Activity {
+public class MainviewActivity extends AppCompatActivity {
 	
+	
+	private Toolbar _toolbar;
+	private FloatingActionButton _fab;
 	
 	private LinearLayout linear1;
 	private WebView webview1;
@@ -39,7 +44,6 @@ public class MainviewActivity extends Activity {
 	private Button button3;
 	private Button button4;
 	private Button button5;
-	private FloatingActionButton _fab;
 	
 	private Intent i = new Intent();
 	private SharedPreferences Download;
@@ -54,6 +58,18 @@ public class MainviewActivity extends Activity {
 	}
 	
 	private void initialize(Bundle _savedInstanceState) {
+		
+		_toolbar = (Toolbar) findViewById(R.id._toolbar);
+		setSupportActionBar(_toolbar);
+		getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+		getSupportActionBar().setHomeButtonEnabled(true);
+		_toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View _v) {
+				onBackPressed();
+			}
+		});
+		_fab = (FloatingActionButton) findViewById(R.id._fab);
 		
 		linear1 = (LinearLayout) findViewById(R.id.linear1);
 		webview1 = (WebView) findViewById(R.id.webview1);
@@ -161,7 +177,7 @@ public class MainviewActivity extends Activity {
 				button5.setBackgroundResource(R.drawable.kreis);
 			}
 		});
-
+		
 		_fab.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View _view) {

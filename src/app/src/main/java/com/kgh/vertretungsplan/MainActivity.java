@@ -1,6 +1,8 @@
 package com.kgh.vertretungsplan;
 
-import android.app.Activity;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.annotation.*;
+import androidx.appcompat.widget.Toolbar;
 import android.app.*;
 import android.os.*;
 import android.view.*;
@@ -23,13 +25,15 @@ import android.widget.EditText;
 import android.widget.Button;
 import android.content.Intent;
 import android.net.Uri;
+import android.app.Activity;
 import android.content.SharedPreferences;
 import android.view.View;
 import android.graphics.Typeface;
 
-public class MainActivity extends Activity {
+public class MainActivity extends AppCompatActivity {
 	
 	
+	private Toolbar _toolbar;
 	private double secret = 0;
 	
 	private LinearLayout linear2;
@@ -54,6 +58,16 @@ public class MainActivity extends Activity {
 	
 	private void initialize(Bundle _savedInstanceState) {
 		
+		_toolbar = (Toolbar) findViewById(R.id._toolbar);
+		setSupportActionBar(_toolbar);
+		getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+		getSupportActionBar().setHomeButtonEnabled(true);
+		_toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View _v) {
+				onBackPressed();
+			}
+		});
 		linear2 = (LinearLayout) findViewById(R.id.linear2);
 		linear4 = (LinearLayout) findViewById(R.id.linear4);
 		textview1 = (TextView) findViewById(R.id.textview1);
