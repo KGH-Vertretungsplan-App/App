@@ -1,0 +1,3 @@
+With the KGH substitution schedule app you can view the substitution schedules of the Kreisgymnasium Halle/Westf. mobile on your smartphone. With the app you are always up to date about your timetable. In order to use the app, you need the password, which the KGH will provide upon request.
+
+The substitution plans are automatically updated by the system every 5 minutes.

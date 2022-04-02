@@ -1,0 +1,3 @@
+Mit der <i>KGH-Vertretungsplan-App</i> kannst du die Vertretungspläne des Kreisgymnasium Halle/Westf. mobil auf deinem Smartphone einsehen. Mit der App bist du immer auf dem neuesten Stand, was Deinen Stundenplan betrifft. Um die App benutzen zu können, benötigst Du das Passwort, welches Dir das KGH auf Anfrage zur Verfügung stellt.
+
+Die Vertretungspläne werden vom System automatisch alle 5 Minuten aktualisiert.

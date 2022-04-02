@@ -1,0 +1,1 @@
+An app that shows you the substitution schedules mobile on your smartphone.
